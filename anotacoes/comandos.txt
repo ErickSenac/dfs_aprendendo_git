@@ -11,3 +11,5 @@ git branch -M main - enviar filial
 git remote add origin https://github.com/ErickSenac/desafio_github.git - pasta de destino no git
 
 git push - Enviar para o github
+
+git clone - baixar pasta do github
