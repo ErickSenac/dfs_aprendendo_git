@@ -1,5 +1,13 @@
 git init - inicializando um repo git
+
 git status - verificas o status do repo
+
 git add . - adiciona todos os arq. ao rastreio do git
+
 git commit -m - comentar as modificações
+
+git branch -M main - enviar filial
+
+git remote add origin https://github.com/ErickSenac/desafio_github.git - pasta de destino no git
+
 git push - Enviar para o github
